@@ -1,1 +1,1 @@
-# CPU-oage-replacement-algorithm
+# CPU-Page-replacement-algorithm
